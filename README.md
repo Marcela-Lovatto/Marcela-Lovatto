@@ -24,13 +24,14 @@ Cada repositório reflete um passo da minha jornada de aprendizado e curiosidade
 ---
 
 <!-- Estatísticas do GitHub -->
-<p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcela-Lovatto&show_icons=true&theme=tokyonight&disable_animations=false&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcela-Lovatto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<p>
+  <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api?username=Marcela-Lovatto&show_icons=true&theme=tokyonight&disable_animations=false&hide_border=true"/>
+  <img height="150em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcela-Lovatto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<p></p>
 
+---
 <!-- Tecnologias -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,kotlin,cs,dotnet,androidstudio,tensorflow,git,c,c++&theme=dark" />
