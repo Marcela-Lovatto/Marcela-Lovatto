@@ -8,10 +8,8 @@ Aqui você encontra meus projetos em constante evolução — desde jogos e aná
 Cada repositório reflete um passo da minha jornada de aprendizado e curiosidade por diferentes áreas da computação.  
 </p>
 
----
-
 <!-- Contato -->
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/marcela-lovatto-4ba792236/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -27,8 +25,8 @@ Cada repositório reflete um passo da minha jornada de aprendizado e curiosidade
 
 <!-- Estatísticas do GitHub -->
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Marcela-Lovatto&show_icons=true&theme=tokyonight&disable_animations=false&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcela-Lovatto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcela-Lovatto&show_icons=true&theme=tokyonight&disable_animations=false&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcela-Lovatto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
