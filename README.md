@@ -9,7 +9,7 @@ Cada repositório reflete um passo da minha jornada de aprendizado e curiosidade
 </p>
 
 <!-- Contato -->
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/marcela-lovatto-4ba792236/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
