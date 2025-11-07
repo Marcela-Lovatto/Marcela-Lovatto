@@ -24,7 +24,7 @@ Cada repositório reflete um passo da minha jornada de aprendizado e curiosidade
 ---
 
 <!-- Estatísticas do GitHub -->
-<p align="center">
+<p align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcela-Lovatto&show_icons=true&theme=tokyonight&disable_animations=false&hide_border=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcela-Lovatto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
